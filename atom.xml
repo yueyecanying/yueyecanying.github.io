@@ -6,7 +6,7 @@
   <link href="http://yueyecanying.github.io/atom.xml" rel="self"/>
   
   <link href="http://yueyecanying.github.io/"/>
-  <updated>2021-09-26T00:45:31.839Z</updated>
+  <updated>2021-09-26T01:42:08.646Z</updated>
   <id>http://yueyecanying.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yueyecanying.github.io/uncategorized/%E7%BD%AE%E9%A1%B6/"/>
     <id>http://yueyecanying.github.io/uncategorized/%E7%BD%AE%E9%A1%B6/</id>
     <published>2021-09-24T03:25:03.812Z</published>
-    <updated>2021-09-26T00:45:31.839Z</updated>
+    <updated>2021-09-26T01:42:08.646Z</updated>
     
     
     <summary type="html">长夜漫漫道阻且长～</summary>
@@ -36,7 +36,7 @@
     <link href="http://yueyecanying.github.io/uncategorized/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
     <id>http://yueyecanying.github.io/uncategorized/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</id>
     <published>2021-08-24T15:23:50.000Z</published>
-    <updated>2021-09-26T01:22:02.461Z</updated>
+    <updated>2021-09-26T02:01:54.337Z</updated>
     
     <content type="html"><![CDATA[<h1 id="【1】-万事开头难"><a href="#【1】-万事开头难" class="headerlink" title="【1】:万事开头难"></a>【1】:万事开头难</h1><h2 id="【加油】："><a href="#【加油】：" class="headerlink" title="【加油】："></a>【加油】：</h2><h3 id="帮助文档的作用"><a href="#帮助文档的作用" class="headerlink" title="帮助文档的作用"></a>帮助文档的作用</h3><p>//有些问题 ， 没看帮助文档之前 ， 你会被困死！ </p><p>//但如果你稍微看了一下帮助文档 ===&gt; 很有可能就会豁然开朗，假如一开始就仔细读文档，很有可能你不会产生这种困惑的心情～～～</p><p><img src="https://cdn.jsdelivr.net/gh/yueyecanying/myimg/img/image-20210925113252504.png" alt="image-20210925113252504"></p><h2 id="【首页打字效果】："><a href="#【首页打字效果】：" class="headerlink" title="【首页打字效果】："></a>【首页打字效果】：</h2><ul><li>主题YML</li></ul><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">subtitle:</span></span><br><span class="line"> <span class="attr">enable:</span> <span class="literal">true</span>  <span class="comment">#设置为T</span></span><br><span class="line"> <span class="comment"># source: 2 #true=》2      #本来是True的，视频里改成了2，就先打印一句话～～～</span></span><br><span class="line"> <span class="comment">#这个地方设置成2打印出来的网络流行语，语意哈哈哈～！！！！！！设置成4会出现古诗！！！</span></span><br><span class="line"> <span class="attr">source:</span> <span class="number">4</span></span><br><span class="line"> <span class="attr">sub:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">跨越山山水水，穿过无边人海</span> <span class="string">=</span>  <span class="string">=</span>  <span class="string">=</span>  <span class="string">=</span>  <span class="string">&gt;</span> <span class="string">我们终于相遇了～</span>  <span class="comment">#这一句话会在后半段部分展示出来！！！</span></span><br></pre></td></tr></table></figure>]]></content>
     
