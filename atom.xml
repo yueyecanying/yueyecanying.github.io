@@ -6,7 +6,7 @@
   <link href="http://yueyecanying.github.io/atom.xml" rel="self"/>
   
   <link href="http://yueyecanying.github.io/"/>
-  <updated>2021-11-30T18:00:56.145Z</updated>
+  <updated>2021-11-30T17:56:31.563Z</updated>
   <id>http://yueyecanying.github.io/</id>
   
   <author>
@@ -15,21 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的技术文章 =&gt; 头像下方蓝色按钮</title>
-    <link href="http://yueyecanying.github.io/uncategorized/%E6%96%87%E7%AB%A0%E5%90%8D%E5%AD%97/"/>
-    <id>http://yueyecanying.github.io/uncategorized/%E6%96%87%E7%AB%A0%E5%90%8D%E5%AD%97/</id>
-    <published>2021-12-01T01:47:30.000Z</published>
-    <updated>2021-11-30T18:00:56.145Z</updated>
-    
-    
-    <summary type="html">更多的学习文章==##==&gt;他山之石  ； 更多的音乐 ==##==&gt; 高山流水</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>云易办在线办公系统</title>
@@ -49,16 +34,31 @@
   </entry>
   
   <entry>
-    <title>我的技术文章 =&gt; 头像下方蓝色按钮</title>
-    <link href="http://yueyecanying.github.io/uncategorized/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
-    <id>http://yueyecanying.github.io/uncategorized/%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</id>
+    <title>项目历程</title>
+    <link href="http://yueyecanying.github.io/uncategorized/%E7%AC%AC%E4%BA%8C%E7%AF%87/"/>
+    <id>http://yueyecanying.github.io/uncategorized/%E7%AC%AC%E4%BA%8C%E7%AF%87/</id>
     <published>2021-08-24T15:23:50.000Z</published>
-    <updated>2021-11-30T17:49:52.104Z</updated>
+    <updated>2021-11-30T18:08:10.258Z</updated>
     
     <content type="html"><![CDATA[<h2 id="【1】：CELS单词管理系统"><a href="#【1】：CELS单词管理系统" class="headerlink" title="【1】：CELS单词管理系统"></a>【1】：CELS单词管理系统</h2><h3 id="【涉及技术栈】："><a href="#【涉及技术栈】：" class="headerlink" title="【涉及技术栈】："></a>【涉及技术栈】：</h3><p>CoreJava</p><h3 id="【大致概述-】："><a href="#【大致概述-】：" class="headerlink" title="【大致概述 】："></a>【大致概述 】：</h3><p>本项目主要用于记单词 ， 主要功能有浏览词库 ， 英语与汉语互译，英汉的测试 ， 错题本等；本项目是采用JAVA基础知识开发，由命令窗完成交互，数据操作使用IO技术。</p><p>【收获】：</p><p>学会了从不同角度去分析MVC分层思想，更深层次的理解了MVC分层的好处，并且进一步提高了JAVA代码的编写能力。</p><h2 id="【2】：图书馆管理系统"><a href="#【2】：图书馆管理系统" class="headerlink" title="【2】：图书馆管理系统"></a>【2】：图书馆管理系统</h2><h3 id="【技术栈】："><a href="#【技术栈】：" class="headerlink" title="【技术栈】："></a>【技术栈】：</h3><p>MySQL 数据库、Maven、Spring、SpringMVC、MyBatis、JSP，bootstrap、bootstrap-table 等；</p><h3 id="【大致概述】："><a href="#【大致概述】：" class="headerlink" title="【大致概述】："></a>【大致概述】：</h3><p><strong>项目介绍：</strong>基于 Spring、Spring MVC 开发的图书管理系统，实现了管理员的登录功能和对图书的管理功能。</p><p><strong>负责模块：</strong>登录模块、图书管理模块</p><p><strong>登录：</strong>创建用户类和用户表，在后端对得到的账号密码进行验证，来决定是否进入图书管理界面。</p><p><strong>图书管理：</strong>创建图书类和图书表，其中图书封面选择使用路径 URL 来代替。提供对图书的增删改查功能，增加与修改界面选择用 bootstrap 提供的模态框来实现，由于涉及到图片的上传，所以前端发送 ajax 请求时，针对综</p><p>合表单提交，data 应该用FormData，而不是使用 form.serialize()，contentType 也应设置为 false，在form标签中应添加 enctype=”multipart/form-data” 属性， </p><p><strong>收获：</strong></p><p>\1.   通过这个项目了解了文件上传的步骤；</p><p>\2.   熟悉了一个小型web项目的开发流程；</p><h2 id="【3】：乐码智慧教育平台"><a href="#【3】：乐码智慧教育平台" class="headerlink" title="【3】：乐码智慧教育平台"></a>【3】：乐码智慧教育平台</h2><h3 id="【技术栈】：-1"><a href="#【技术栈】：-1" class="headerlink" title="【技术栈】："></a>【技术栈】：</h3><p>MySQL 数据库、Maven、Spring、SpringMVC、SpringBoot、MyBatis、jQuery、Ajax , bootstrap、bootstrap-table，thymeleaf 等；</p><h3 id="【大致概述】：-1"><a href="#【大致概述】：-1" class="headerlink" title="【大致概述】："></a>【大致概述】：</h3><p><strong>项目介绍：</strong>基于 Spring boot 开发的线上创新实训平台是通过互联网科技手段搭建用于以学习者为中心的个性人才培养教学与实践环境实训的平台。学员可以依托虚拟企业学习环境在智能化辅助教学系统的指导下完成个性化培养方案的课程学习与企业项目实战开发，并围绕创新实训学习平台建立职业能力评测、就业指导、学习过程数据化等配套相关服务。</p><p> <strong>功能模块：</strong></p><p>系统配置：参数信息、配置资料、数据库备份；</p><p>用户管理：管理员管理、学生管理、教师管理、咨询师管理；</p><p>权限管理：用户组管理、角色管理、角色权限、菜单行为、菜单管理、行为管理；</p><p>资源管理：资源管理、文档管理、视频管理；</p><p>培养方案：方案列表、课程列表、课程分类；</p><p>班级管理：专业方向、班级列表、班级问题、布置作业、学习进度；</p><p>授课管理：课堂教学；</p><p>考试管理：题库管理、实体管理、试卷管理、考试汇总；</p><p>考评管理：考评选项、考评模板、教师考评；</p><p>数据分析：班级统计、学员观看记录；</p><p>组织机构：机构列表、分支机构；</p><p>通知公告：公告管理、新闻资讯；</p><p>咨询管理：建议咨询；</p><p>意向客户：客户列表、数据报表；</p><p><strong>负责模块：</strong>用户管理模块</p><p>需求分析：</p><p>对新加入的用户进行管理，按照用户的类别分别给予不同的权限，并能对已加入的用户按条件实现新增，删除，修改，查询等功能，并做好相应的日志记录。</p><p>设计分析：</p><p>抽象出用户模型，根据需要做出用户展示DTO模型，用户查询DTO模型，并根据需要提供的增删改查等功能，编写相应按钮的控制层代码。</p><p>具体描述：</p><p>构造用户的实体类并在数据库中生成相应的表，构造DTO实体类，根据业务需求，在DTO中添加数据库表中不存在的字段，方便数据交互并提高效率。在DTO层中添加Convert接口将实体类转化为DTO，将UI层需要的数据进行重新的定义和封装，将相关信息存放在用户展示的DTO类中，从而展示出需要的信息。每个表中提供增加，修改，删除和关联按钮，表上方提供条件查询，导出，添加和多个删除等功能的按钮，通过在控制层中调用相应的Service层的方法进行实现。在我的用户和其他用户相关联的表的切换中，为了保持数据的一致性，将在一方修改数据的同时刷新另一方的数据，让用户具有良好的交互体验。</p><p><strong>收获：</strong></p><p>\1.   通过这次项目了解了企业级项目开发流程；</p><p>\2.   熟悉了bootstrap-table、iPicker等前端组件的使用；</p><p>\3.   熟悉了@RequestBody、@ResponseBody的区别；</p><p>\4.   了解了多模块开发；</p>]]></content>
     
     
     <summary type="html">之前的部分项目经验</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的技术文章 =&gt; 头像下方蓝色按钮</title>
+    <link href="http://yueyecanying.github.io/uncategorized/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%AF%BC%E8%88%AA/"/>
+    <id>http://yueyecanying.github.io/uncategorized/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%AF%BC%E8%88%AA/</id>
+    <published>2015-12-01T01:47:30.000Z</published>
+    <updated>2021-11-30T18:09:00.890Z</updated>
+    
+    
+    <summary type="html">仗剑天涯路上有幸遇到你们 ：）</summary>
     
     
     
